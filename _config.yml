@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/EnnisHong-TW/EnnisHong-TW.github.io
+  repo: https://github.com/ennis-hong/ennis-hong.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
