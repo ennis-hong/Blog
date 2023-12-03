@@ -106,3 +106,4 @@ deploy:
   repo: https://github.com/EnnisHong-TW/EnnisHong-TW.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
